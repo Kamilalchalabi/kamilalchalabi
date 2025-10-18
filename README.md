@@ -1,5 +1,8 @@
 <div align="center" width="50%">
 
+<div align="center">
+  <img src="https://github.com/Kamilalchalabi/kamilalchalabi/blob/main/banner.jpg?raw=true" alt="Kamil Ahmed Banner" width="40%" />
+</div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 
