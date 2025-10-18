@@ -7,7 +7,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kamilalchalabi&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kamilalchalabi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
 
 </div>
 
